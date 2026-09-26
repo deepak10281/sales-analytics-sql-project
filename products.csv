@@ -1,0 +1,61 @@
+product_id,product_name,category_id,supplier_id,unit_price,unit_cost
+1,Wireless Mouse,2,1,962.02,441.81
+2,Mechanical Keyboard,2,2,418.34,222.8
+3,USB-C Hub,3,3,1106.82,775.19
+4,27in Monitor,2,4,1339.13,645.68
+5,Laptop Stand,2,5,637.51,293.91
+6,Bluetooth Speaker,8,6,334.21,212.89
+7,Noise Cancelling Headphones,8,7,47.59,24.92
+8,Webcam,2,8,977.63,637.05
+9,Power Bank,3,9,336.9,225.06
+10,Smartphone Case,3,10,1215.67,549.97
+11,Fast Charger,3,11,1210.28,857.26
+12,External SSD,2,12,515.65,261.71
+13,WiFi Router,2,13,1436.16,825.13
+14,Office Chair,6,14,146.38,71.11
+15,Desk Lamp,5,15,1272.46,856.85
+16,Gaming Mouse,7,16,1212.24,872.81
+17,Gaming Keyboard,7,17,808.05,654.56
+18,HDMI Cable,3,18,572.77,374.74
+19,Air Purifier,4,19,1245.47,845.49
+20,Coffee Maker,4,20,1293.67,858.51
+21,Notebook Pack,5,1,1059.22,494.61
+22,Desk Organizer,5,2,348.02,193.87
+23,Bookshelf,6,3,127.05,68.12
+24,Standing Desk,6,4,158.69,87.73
+25,Game Controller,7,5,956.44,559.51
+26,Microphone,8,6,560.31,295.57
+27,Earbuds,8,7,406.33,323.67
+28,Smartwatch,1,8,974.87,658.41
+29,Tablet,1,9,263.34,189.55
+30,Laptop,2,10,251.8,148.66
+31,Wireless Mouse Pro 2,2,11,1484.37,1019.47
+32,Mechanical Keyboard Pro 2,2,12,838.97,590.05
+33,USB-C Hub Pro 2,3,13,1265.54,932.85
+34,27in Monitor Pro 2,2,14,349.74,161.54
+35,Laptop Stand Pro 2,2,15,478.66,262.82
+36,Bluetooth Speaker Pro 2,8,16,322.79,257.87
+37,Noise Cancelling Headphones Pro 2,8,17,1315.54,745.16
+38,Webcam Pro 2,2,18,985.91,587.98
+39,Power Bank Pro 2,3,19,1372.51,850.65
+40,Smartphone Case Pro 2,3,20,403.2,218.23
+41,Fast Charger Pro 2,3,1,845.56,462.7
+42,External SSD Pro 2,2,2,880.2,688.49
+43,WiFi Router Pro 2,2,3,603.91,320.77
+44,Office Chair Pro 2,6,4,1496.33,955.44
+45,Desk Lamp Pro 2,5,5,143.64,67.14
+46,Gaming Mouse Pro 2,7,6,171.6,117.06
+47,Gaming Keyboard Pro 2,7,7,1189.78,721.24
+48,HDMI Cable Pro 2,3,8,102.78,60.76
+49,Air Purifier Pro 2,4,9,1494.21,964.92
+50,Coffee Maker Pro 2,4,10,1456.85,1119.57
+51,Notebook Pack Pro 2,5,11,25.13,18.01
+52,Desk Organizer Pro 2,5,12,1025.11,664.97
+53,Bookshelf Pro 2,6,13,406.1,279.05
+54,Standing Desk Pro 2,6,14,174.44,106.56
+55,Game Controller Pro 2,7,15,684.96,549.96
+56,Microphone Pro 2,8,16,1314.77,719.78
+57,Earbuds Pro 2,8,17,754.87,389.59
+58,Smartwatch Pro 2,1,18,1369.64,1057.49
+59,Tablet Pro 2,1,19,453.28,311.14
+60,Laptop Pro 2,2,20,916.58,464.29
